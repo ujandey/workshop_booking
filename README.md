@@ -103,7 +103,7 @@ npm run build
 
 The frontend builds successfully with route chunks generated for `Home`, `Workshops`, and `Stats`.
 
-## Before and after screenshots
+##Screenshots
 
 Screenshots are stored in `docs/screenshots/`.
 
@@ -111,14 +111,6 @@ Screenshots are stored in `docs/screenshots/`.
 
 ![After - Home](docs/screenshots/after-home.png)
 
-### Add these before final submission
-
-- `docs/screenshots/before-home.png`
-- `docs/screenshots/before-workshops.png`
-- `docs/screenshots/before-stats.png`
-- `docs/screenshots/after-now-happening.png`
-- `docs/screenshots/after-workshops.png`
-- `docs/screenshots/after-stats.png`
 
 ## Notes
 
