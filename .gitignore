@@ -42,6 +42,12 @@ db.sqlite3
 #Vim
 *.swp
 
-#images/gif
+# Frontend build artifacts
+frontend/node_modules/
+frontend/dist/
+
+# Generated screenshots are usually ignored, but keep submission assets in docs.
 *.png
 *.gif
+!docs/screenshots/**/*.png
+!docs/screenshots/**/*.gif
